@@ -1,6 +1,6 @@
 # App Para Conexão com a API da Corretora de Forex XTB
 
-Conecta com o Backend presente construído e disponibilizado na coleção de repositórios deste autor.
+Conecta com o Backend construído e disponibilizado na coleção de repositórios deste autor.
 
 ## Funcionalidades e Tecnologias utilizadas
 
